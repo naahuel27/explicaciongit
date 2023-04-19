@@ -4,7 +4,7 @@ public class InterfazCallCenter {
 	
 	public static void main(String args[]) {
 			
-		System.out.println("Bienvenido al callcenter");
+		System.out.println("Bienvenido/a al callcenter");
 	
 		System.out.println("************************");
 		System.out.println("Menu de opciones\n");
